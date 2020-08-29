@@ -1,0 +1,7 @@
+venv/
+anaconda/
+.idea/
+assign3/data
+assign3/models
+data
+models
